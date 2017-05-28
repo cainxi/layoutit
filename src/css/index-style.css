@@ -2,17 +2,17 @@
     height:600px;
 }
 .carousel .item{
-    height:700px;
+    height:600px;
 }
 
 .carousel .item p{
-    font-size: 35px;
+    /*font-size: 35px;*/
     color: whitesmoke ;
     text-align:center;
 }
 
 .carousel .item h1{
-    font-size: 60px;
+    /*font-size: 60px;*/
     color: whitesmoke ;
     margin:100px;
     text-align:center;
