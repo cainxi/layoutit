@@ -16,7 +16,7 @@ var change_language = [" 语言切换"," Language"];
 var common_search = ["搜索","Search"];
 
 var mark_down = ["有道Markdown","Youdao Markdown"];
-var web_clipper = ["有道网页剪报","Youdao Web Clipper:"];
+var web_clipper = ["有道网页剪报","Youdao Web Clipper"];
 var voice_note = ["有道语音笔记","Youdao Vocie Note"];
 var web_coll = ["有道云协作","Youdao Web Collaboration"];
 var mark_down1 = ["为编辑而燃烧。","Love editing right now. "];

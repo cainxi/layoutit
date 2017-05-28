@@ -6,13 +6,13 @@
 }
 
 .carousel .item p{
-    /*font-size: 35px;*/
+    font-size: medium;
     color: whitesmoke ;
     text-align:center;
 }
 
 .carousel .item h1{
-    /*font-size: 60px;*/
+    font-size: xx-large;
     color: whitesmoke ;
     margin:100px;
     text-align:center;
