@@ -1,0 +1,32 @@
+.carousel{
+    height:600px;
+}
+.carousel .item{
+    height:700px;
+}
+
+.carousel .item p{
+    font-size: 35px;
+    color: whitesmoke ;
+    text-align:center;
+}
+
+.carousel .item h1{
+    font-size: 60px;
+    color: whitesmoke ;
+    margin:100px;
+    text-align:center;
+    font-weight: 700;
+}
+
+.carousel .item h1.carh1{
+     color: #e7e7e7;
+}
+
+.carousel .item p.carh1{
+    color: #e7e7e7;
+}
+
+img{
+    width: 100%; height: auto;max-width: 100%; display: block;
+}

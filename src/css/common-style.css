@@ -1,0 +1,103 @@
+
+
+
+.list-group a{
+    color: #3c3c3c;
+}
+
+.list-group {
+    width: 50%;
+}
+
+.col-md-9 p{
+     padding: 10px;
+ }
+
+.col-md-9 h2{
+    margin-top: 10px;
+}
+
+section{
+    /*margin-bottom: 150px;*/
+    padding: 40px 0;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+section:last-child {
+    border-bottom: none;
+}
+
+ul.nav-stacked{
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    margin-left: 50px;
+}
+ul.nav-stacked li{
+    margin: 0;
+    border-top: 1px solid #ddd;
+}
+ul.nav-stacked li:first-child{
+    border-top: none;
+}
+ul.nav-stacked li a{
+    padding: 10px 16px;
+    border-radius: 0;
+    margin: 0;
+}
+
+
+/*ul.nav-stacked li.active a{*/
+    /*color: #fff;*/
+    /*background: #0088cc;*/
+    /*border: 1px solid #0088cc;*/
+/*}*/
+ul.nav-stacked li:first-child a{
+    border-radius: 4px 4px 0 0;
+}
+ul.nav-stacked li:last-child a{
+    border-radius: 0 0 4px 4px;
+}
+ul.nav-stacked.affix{
+    top: 30px; /* Set the top position of pinned element */
+}
+
+
+img{
+    width: 100%; height: auto;max-width: 100%; display: block;
+}
+video{
+    width: 100%; height: auto;max-width: 100%; display: block;
+}
+
+.jumbotron h1{
+    text-align: center;
+}
+.jumbotron p{
+    text-align: center;
+}
+
+.nav .nav {
+    display: none;
+}
+
+.nav .active .nav {
+    display: block;
+}
+
+.nav .nav .active a,
+.nav .nav .active:hover a,
+.nav .nav .active:focus a {
+    font-weight: bold;
+    padding-left: 30px;
+    border-left: 5px solid black;
+    background: #158cba;
+    color: #ffffff;
+}
+
+.nav .nav a{
+    padding-left: 40px;
+    font-size: small;
+}
